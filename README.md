@@ -5,3 +5,13 @@ For this project, I sourced data via two methods. Web scraping for company reven
 
 NB: Github does not display charts made with Plotly. Until that's fixed you can click [here](https://nbviewer.org/github/KelvinJC/Stock-price-data-analysis/blob/main/Stock%20prices%20analysis.ipynb) to view the charts.
 
+### Tools:
+* Python
+* Jupyter Notebook
+
+### Libraries:
+* Pandas
+* Beautiful Soup
+* Numpy
+* Plotly
+* Yfinance API
